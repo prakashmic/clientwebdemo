@@ -1,0 +1,15 @@
+.abcd {
+    border-bottom: 10;
+    transform: 50px 0 erase;
+    -webkit-transform: 50px 0 erase;
+    -moz-transform: 50px 0 erase;
+    -ms-transform: 50px 0 erase;
+    -o-transform: 50px 0 erase;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
